@@ -6,12 +6,21 @@
 
 ## 🔍 Overview
 
-- **Team Size:** 3 students  
+- **Team Size:** 2 students  
 - **Role:** Team Lead and Developer  
 - **Technologies:** C++, Qt  
 - **Routing Algorithm:** Dijkstra’s Algorithm  
 
-Uarrivo efficiently calculates the fastest routes, handles user authentication, and simulates a complete ride-hailing experience with features like multiple car types and payment options.
+Uarrivo efficiently calculates the fastest routes using Dijkstra's algorithm, handles user authentication, and simulates a complete ride-hailing experience with features like multiple car types and payment options. It also had a very primary database functionality where information would be read/written to .csv file.
+
+---
+
+## 🧠 Learning Outcomes
+
+- Practicing Object Oriented Programming principles and tools used in project planning 
+- Applied graph algorithms (Dijkstra) in a real-world scenario
+- Gained experience in C++ GUI programming using Qt
+- Strengthened teamwork and modular development skills
 
 ---
 
@@ -29,8 +38,9 @@ Uarrivo efficiently calculates the fastest routes, handles user authentication, 
 - 👤 **User Profile Management**  
   Users can update their age, phone number, and payment details.
 
-- 🗺️ **Optimized Routing**  
-  Utilizes Dijkstra’s algorithm to find the shortest/fastest route.
+- 🗺️ **Optimized Routing**
+  This has a very CUTE feature, hand drawn maps we made specifically for the app that show the shortest paths whenever the user enters 2 locations.
+  We Utilized Dijkstra’s algorithm to find the shortest/fastest route.
 
 ---
 
@@ -38,7 +48,7 @@ Uarrivo efficiently calculates the fastest routes, handles user authentication, 
 
 Uarrivo was developed using a modular, object-oriented approach:
 
-- Designed UML class diagrams and separated logic into modules.
+- Designed UML class diagrams and separated logic into modules; UML (very immature UML diagrams made by your one & only freshman self back in 2020) diagrams from back then can be found in this repo.
 - Used Qt for GUI and event-driven architecture.
 - Divided responsibilities among team members for effective collaboration.
 
@@ -69,26 +79,12 @@ This project was submitted for **CSCE 1102 - Fundamentals of Computing II** (Spr
 
 ---
 
-## 🧠 Lessons Learned
-
-- Applied graph algorithms (Dijkstra) in a real-world scenario
-- Gained experience in C++ GUI programming using Qt
-- Strengthened teamwork and modular development skills
-
----
-
 ## 🚀 Future Enhancements (if continued)
 
 - Real-time GPS integration  
-- Backend database for persistent user/trip data  
+- Backend database for persistent user/trip data, and other information retrieval tasks  
 - Mobile version using Qt for Android/iOS  
 - Live map view with route preview
-
----
-
-## 📸 Screenshots
-
-
 
 ---
 
