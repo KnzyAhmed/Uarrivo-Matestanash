@@ -18,7 +18,7 @@ Uarrivo efficiently calculates the fastest routes, handles user authentication, 
 ## ✨ Features
 
 - 🚘 **Car Classes**  
-  Different ride options with variable pricing (e.g. Economy, Premium).
+  Different ride options with variable pricing (e.g. Economy, Luxurious).
 
 - 💳 **Multiple Payment Methods**  
   Users can store and select preferred payment options.
