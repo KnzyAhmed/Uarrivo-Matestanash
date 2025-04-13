@@ -1,4 +1,4 @@
-# 🚗 Uarrivo App
+# 🚗 Uarrivo/Matestanash App
 
 **Uarrivo** is a car-reservation application inspired by Uber, developed in C++ using the Qt framework. Built as a team project in the **Fundamentals of Computing II** course at the **American University in Cairo** (2020), the app demonstrates object-oriented design, algorithmic problem-solving, and practical GUI development.
 
