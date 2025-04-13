@@ -1,0 +1,6 @@
+#ifndef ORDINARYNODE_H
+#define ORDINARYNODE_H
+
+
+
+#endif // ORDINARYNODE_H
