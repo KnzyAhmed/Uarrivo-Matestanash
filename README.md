@@ -42,7 +42,7 @@ Uarrivo efficiently calculates the fastest routes using Dijkstra's algorithm, ha
   This has a very CUTE feature, hand drawn maps we made specifically for the app that show the shortest paths whenever the user enters 2 locations.
   We Utilized Dijkstra’s algorithm to find the shortest/fastest route.
 
-![Uarrivo UI](Maps/Maps/Map_finished.png)
+![Uarrivo](Maps/Maps/Map_finished.png)
 
 
 ---
